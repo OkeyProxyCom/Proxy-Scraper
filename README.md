@@ -1,5 +1,5 @@
 # Proxy-Scraper
-![Uploading image.png…]()
+![image](https://github.com/OkeyProxyCom/Proxy-Scraper/assets/150340973/ac59e3d6-123a-468c-b328-3605d1219e9f)
 
 What is a proxy scraper? And how can it be used in various cases? We will also discuss concerns about the legality and safety of using a proxy scraper.
 
@@ -10,13 +10,13 @@ A Proxy Scraper, also known as a Proxy Harvester, is a tool or software that ext
 
 Here's a basic overview of how a Proxy Scraper works:
 
-Scanning Websites: The Proxy Scraper begins by scanning websites that list proxy servers. These websites could include forums, blogs, or specific sites dedicated to publishing lists of proxy servers.
+1. Scanning Websites: The Proxy Scraper begins by scanning websites that list proxy servers. These websites could include forums, blogs, or specific sites dedicated to publishing lists of proxy servers.
 
-Extracting Information: Once the scraper identifies a page that contains proxy server details, it extracts the necessary information. This typically includes the IP address and port number, but may also include details like the server location, anonymity level, and speed.
+2. Extracting Information: Once the scraper identifies a page that contains proxy server details, it extracts the necessary information. This typically includes the IP address and port number, but may also include details like the server location, anonymity level, and speed.
 
-Testing Proxies: After the scraper has gathered a list of proxy servers, it often tests each one to ensure it's functioning correctly. This can involve checking the server's response time, verifying its location, and ensuring it provides the expected level of anonymity.
+3. Testing Proxies: After the scraper has gathered a list of proxy servers, it often tests each one to ensure it's functioning correctly. This can involve checking the server's response time, verifying its location, and ensuring it provides the expected level of anonymity.
 
-Storing and Organizing Proxies: Finally, the scraped and tested proxy servers are stored and organized in a list or database. The user can then access and use these proxies as needed.
+4. Storing and Organizing Proxies: Finally, the scraped and tested proxy servers are stored and organized in a list or database. The user can then access and use these proxies as needed.
 
 Proxy Scrapers are particularly useful for tasks that require a large number of proxies, such as web scraping and data mining. However, it's important to note that the legality and ethicality of using Proxy Scrapers can vary depending on the situation and jurisdiction, so they should be used responsibly and in compliance with all applicable laws and regulations.
 
@@ -25,26 +25,26 @@ https://www.okeyproxy.com/proxy/free-trial-of-residential-proxies/
 
 # What You Can Do With A Proxy Scraper？
 
-A Proxy Scraper can be a powerful tool in various scenarios. Here are some things you can do with a Proxy Scraper:
+A Proxy Scraper can be a powerful tool in various scenarios:
 
-Web Scraping: When scraping data from websites, using proxies can help avoid IP bans or restrictions. A Proxy Scraper can provide a large number of proxies to rotate, making it harder for websites to detect and block your scraping activities.
+1. Web Scraping: When scraping data from websites, using proxies can help avoid IP bans or restrictions. A Proxy Scraper can provide a large number of proxies to rotate, making it harder for websites to detect and block your scraping activities.
 
-Anonymizing Internet Activity: If you want to browse the internet anonymously, a Proxy Scraper can provide a list of proxies that can hide your original IP address. This can help protect your privacy online.
+2. Anonymizing Internet Activity: If you want to browse the internet anonymously, a Proxy Scraper can provide a list of proxies that can hide your original IP address. This can help protect your privacy online.
 
-Accessing Geo-Restricted Content: Some online content may be restricted based on geographical location. Using proxies from different regions can help bypass these restrictions. A Proxy Scraper can supply proxies from various countries, allowing you to access content from those locations.
+3. Accessing Geo-Restricted Content: Some online content may be restricted based on geographical location. Using proxies from different regions can help bypass these restrictions. A Proxy Scraper can supply proxies from various countries, allowing you to access content from those locations.
 
-Performing SEO Tasks: For SEO professionals, Proxy Scrapers can be useful for tasks like competitor analysis, keyword research, and rank tracking. Using proxies can help avoid restrictions and bans from search engines.
+4. Performing SEO Tasks: For SEO professionals, Proxy Scrapers can be useful for tasks like competitor analysis, keyword research, and rank tracking. Using proxies can help avoid restrictions and bans from search engines.
 
 ![image](https://github.com/OkeyProxyCom/Proxy-Scraper/assets/150340973/74c36e47-e743-4479-bc71-e4147e64d061)
 
-Testing Networks and Applications: Network administrators and developers can use Proxy Scrapers to obtain proxies for testing network security or the behavior of applications when accessed from different IP addresses.
+5. Testing Networks and Applications: Network administrators and developers can use Proxy Scrapers to obtain proxies for testing network security or the behavior of applications when accessed from different IP addresses.
 
-Managing Social Media Accounts: If you're managing multiple social media accounts or running social media automation, using proxies can help avoid account flagging or banning. A Proxy Scraper can provide a variety of proxies to distribute the load.
+6. Managing Social Media Accounts: If you're managing multiple social media accounts or running social media automation, using proxies can help avoid account flagging or banning. A Proxy Scraper can provide a variety of proxies to distribute the load.
 
 # Legality and safety of using a proxy scraper
 Using a Proxy Scraper involves certain legal and safety considerations. Here's a brief overview:
 
-Legality
+1. Legality
 
 The legality of using a Proxy Scraper can vary greatly depending on the jurisdiction and the specific use case. While the act of using a proxy server is generally legal, the way you use it can potentially cross legal boundaries.
 
@@ -52,7 +52,7 @@ For instance, web scraping is a common use case for Proxy Scrapers. While scrapi
 
 Also, using proxies to anonymize activities that are illegal (like cybercrime or accessing illegal content) is, of course, against the law.
 
-Safety
+2. Safety
 
 From a safety perspective, using a Proxy Scraper can involve risks. The proxies you scrape might not be secure, and your data could potentially be intercepted if the proxy server is compromised or malicious.
 
